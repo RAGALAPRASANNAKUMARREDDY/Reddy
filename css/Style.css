@@ -1,0 +1,48 @@
+body{
+  text-align: center;
+  background-color: #394a6d;
+  padding-top: 100px;
+}
+.top-cloud{
+  position: relative;
+  left: 300px;
+}
+.middle-cloud{
+  position: absolute;
+  left: 400px;
+  top: 300px;
+}
+.bottom-cloud{
+  position: absolute;
+  right: 400px;
+  top: 300px;
+}
+.image{
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+}
+.Develop{
+  width: 300px;
+  height: 200px;
+}
+.Design{
+  width: 300px;
+  height: 200px;
+}
+hr{
+  border-top-style: dotted;
+  width: 100px;
+  background-color: #c0ffb3;
+
+}
+
+h1{
+  color: #3c9d9b;
+}
+h2{
+  color: #52de97;
+}
+h3{
+  color: #c0ffb3;
+}
